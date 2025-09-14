@@ -5,16 +5,16 @@
 
 - 💬 Ask me about **Python, DSA , PowerBI ,Data Analyst, HTML5 , CSS3**
 
-- 📄 Know about my experiences @ [profile](https://uppathidev.github.io/assets/Reddy_FullStack_9+Years_Exp.pdf)
+- 📄 Know about my experiences @ [profile](https://github.com/dsawithsatya/dsawithsatya.github.io/blob/main/Satyanarayana_DataAnalyst.pdf)
 
 - ⚡ Fun fact **I enjoy most of my time being outdoors.Nature lover, Long run, Yoga Practices, Swimming.**
 
 ### Connect with me:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/reddyuppathi)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/reddy-uppathi)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/satya-busireddy)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/angularcode/)&nbsp;
-[![Hackerrank](https://img.shields.io/badge/-HackerRank-3a424f?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/popvictoria73)&nbsp;
+[![Hackerrank](https://img.shields.io/badge/-HackerRank-3a424f?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/dsawithsatya)&nbsp;
 
 ### Languages and Tools:
 
