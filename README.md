@@ -5,7 +5,9 @@
 
 - 💬 Ask me about **Python, DSA , PowerBI ,Data Analyst, HTML5 , CSS3**
 
-- 📄 Know about my experiences @ [profile](https://github.com/dsawithsatya/dsawithsatya.github.io/blob/main/Satyanarayana_DataAnalyst.pdf)
+- 📄 Know about my experiences @ [profile](https://dsawithsatya.github.io/)
+
+<!-- - 📄 Know about my experiences @ [p](https://github.com/dsawithsatya/dsawithsatya.github.io/blob/main/Satyanarayana_DataAnalyst.pdf)  -->
 
 - ⚡ Fun fact **I enjoy most of my time being outdoors.Nature lover, Long run, Playing Cricket, and Badminton.**
 
